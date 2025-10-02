@@ -1,0 +1,4 @@
+username,accountNumber,type,balance,twoSignatories,secondSignatory
+Laura3,ACC1001,CommunityAccount,500.0,false,
+Laura3,ACC1002,ClientAccount,0.0,false,
+Laura3,ACC1003,SmallBusinessAccount,1000.0,true,Laura2
